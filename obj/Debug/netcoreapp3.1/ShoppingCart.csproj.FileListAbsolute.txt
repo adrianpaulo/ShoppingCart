@@ -1,0 +1,14 @@
+/Users/adrianbalbuena/Projects/ShoppingCart/ShoppingCart/obj/Debug/netcoreapp3.1/ShoppingCart.csprojAssemblyReference.cache
+/Users/adrianbalbuena/Projects/ShoppingCart/ShoppingCart/obj/Debug/netcoreapp3.1/ShoppingCart.AssemblyInfoInputs.cache
+/Users/adrianbalbuena/Projects/ShoppingCart/ShoppingCart/obj/Debug/netcoreapp3.1/ShoppingCart.AssemblyInfo.cs
+/Users/adrianbalbuena/Projects/ShoppingCart/ShoppingCart/obj/Debug/netcoreapp3.1/ShoppingCart.csproj.CoreCompileInputs.cache
+/Users/adrianbalbuena/Projects/ShoppingCart/ShoppingCart/bin/Debug/netcoreapp3.1/ShoppingCart.deps.json
+/Users/adrianbalbuena/Projects/ShoppingCart/ShoppingCart/bin/Debug/netcoreapp3.1/ShoppingCart.runtimeconfig.json
+/Users/adrianbalbuena/Projects/ShoppingCart/ShoppingCart/bin/Debug/netcoreapp3.1/ShoppingCart.runtimeconfig.dev.json
+/Users/adrianbalbuena/Projects/ShoppingCart/ShoppingCart/bin/Debug/netcoreapp3.1/ShoppingCart.dll
+/Users/adrianbalbuena/Projects/ShoppingCart/ShoppingCart/bin/Debug/netcoreapp3.1/ShoppingCart.pdb
+/Users/adrianbalbuena/Projects/ShoppingCart/ShoppingCart/obj/Debug/netcoreapp3.1/ShoppingCart.dll
+/Users/adrianbalbuena/Projects/ShoppingCart/ShoppingCart/obj/Debug/netcoreapp3.1/ShoppingCart.pdb
+/Users/adrianbalbuena/Projects/ShoppingCart/ShoppingCart/obj/Debug/netcoreapp3.1/ShoppingCart.genruntimeconfig.cache
+/Users/adrianbalbuena/Projects/ShoppingCart/ShoppingCart/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/adrianbalbuena/Projects/ShoppingCart/ShoppingCart/obj/Debug/netcoreapp3.1/ShoppingCart.csproj.CopyComplete

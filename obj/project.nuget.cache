@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B9SQi3vP9sVa7bNxxpIttS9lDHb5Y0aItLLrePoOOLTeU5YN2hAAf7pjN8Ym367P0J9xqDQC9i/YluznM+/hQQ==",
+  "success": true,
+  "projectFilePath": "/Users/adrianbalbuena/Projects/ShoppingCart/ShoppingCart/ShoppingCart.csproj",
+  "expectedPackageFiles": [
+    "/Users/adrianbalbuena/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

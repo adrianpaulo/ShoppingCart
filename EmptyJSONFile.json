@@ -1,0 +1,86 @@
+﻿[
+  {
+    "Name": "Bananas",
+    "Price": "1"
+  },
+  {
+    "Name": "Apples",
+    "Price": "2"
+  },
+  {
+    "Name": "Strawberries",
+    "Price": "3"
+  },
+  {
+    "Name": "Grapes",
+    "Price": "4"
+  },
+  {
+    "Name": "Oranges",
+    "Price": "5"
+  },
+  {
+    "Name": "Watermelon",
+    "Price": "6"
+  },
+  {
+    "Name": "Lemons",
+    "Price": "7"
+  },
+  {
+    "Name": "Avocados",
+    "Price": "8"
+  },
+  {
+    "Name": "Peaches",
+    "Price": "9"
+  },
+  {
+    "Name": "Blueberries",
+    "Price": "10"
+  },
+
+  {
+    "Name": "Pasta",
+    "Price": "11"
+  },
+  {
+    "Name": "Rice",
+    "Price": "12"
+  },
+  {
+    "Name": "Popcorn",
+    "Price": "13"
+  },
+  {
+    "Name": "Chicken",
+    "Price": "14"
+  },
+  {
+    "Name": "Steak",
+    "Price": "15"
+  },
+  {
+    "Name": "Snicker bars",
+    "Price": "16"
+  },
+  {
+    "Name": "Toilet Paper",
+    "Price": "17"
+  },
+  {
+    "Name": "Paper Towels",
+    "Price": "18"
+  },
+  {
+    "Name": "Bag of Chips",
+    "Price": "19"
+  },
+  {
+    "Name": "Hand sanitizer",
+    "Price": "20"
+  }
+
+
+
+]
